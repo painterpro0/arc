@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Use pathlib in DOTA ops (#7552)
