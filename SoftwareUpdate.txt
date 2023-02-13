@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
