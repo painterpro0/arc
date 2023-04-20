@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
