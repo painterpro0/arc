@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
