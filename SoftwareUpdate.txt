@@ -1,1 +1,1 @@
-ultralytics 8.1.17 fix ClassificationDataset caching (#8358)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
