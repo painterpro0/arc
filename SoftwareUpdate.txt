@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Add HUB-SDK docs (#7775)
