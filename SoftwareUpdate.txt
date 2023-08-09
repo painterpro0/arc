@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Replacing Images for torchscript.md (#8596)
