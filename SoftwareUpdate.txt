@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Elaborate Train and Predict mode docs arguments (#8137)
