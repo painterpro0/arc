@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Update format.yml to pull_request_target (#7460)
