@@ -1,1 +1,1 @@
-fix predict with class filter
+fix yolo classify model loading error (#9196)
