@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
