@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Segment TensorRT batch=3 fix (#7952)
