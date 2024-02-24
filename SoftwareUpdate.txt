@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
